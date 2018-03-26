@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="phwclasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../phwclasses.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

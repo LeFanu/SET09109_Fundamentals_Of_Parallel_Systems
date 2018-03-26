@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="groovy-2.4.13" level="application" />
+    <orderEntry type="library" name="groovy-2.4.13" level="application" />
+    <orderEntry type="library" exported="" name="groovyJCSP-J1-8-G2-5-170120181" level="application" />
+    <orderEntry type="library" exported="" name="jcsp-1-8-170120181" level="application" />
+    <orderEntry type="library" exported="" name="junit" level="application" />
+    <orderEntry type="library" exported="" name="api" level="application" />
+    <orderEntry type="library" exported="" name="groovy-2.4.13 (2)" level="application" />
+    <orderEntry type="module" module-name="ucape-exercises" exported="" />
+    <orderEntry type="library" name="groovyJCSP-J1-8-G2-5-17012018" level="application" />
+    <orderEntry type="library" name="jcsp-1-8-17012018" level="application" />
+    <orderEntry type="library" name="phwclasses" level="application" />
+  </component>
+</module>
